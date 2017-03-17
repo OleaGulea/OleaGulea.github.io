@@ -1,0 +1,22 @@
+{
+  "name": "Button Functionality",
+  "description": "",
+  "details": "",
+  "icon": {
+    "url": "./images/logo.png"
+  },
+  "author": "Gulea Olga",
+  "capabilities": [
+    "callback",
+    "card-buttons",
+    "show-settings"
+  ],
+  "connectors": {
+    "iframe": {
+      "url": "./index.html"
+    }
+  },
+  "recommend": {
+    "urls": []
+  }
+}
